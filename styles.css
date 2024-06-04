@@ -64,18 +64,18 @@ nav img{
     font-size: 25px;
     color: #fff;
 }
-.länk{
+.lank{
     display: inline-block;
     text-decoration: none;
     color: #fff;
     border: 1px solid #fff;
     padding: 12px 35px;
-    font-size: 15;
+    font-size: 15px;
     background: transparent;
     position: relative;
     cursor: pointer;
 }
-.länk:hover{
+.lank:hover{
     border: 1px solid #f44336;
     background: #f44336;
     transition: 1s;
@@ -120,12 +120,6 @@ nav img{
     margin-bottom: 20px;
   }
   
-  .rum p {
-    font-size: 20px;
-    margin-bottom: 20px;
-  }
-  
-
 .content {
     width: 80%;
     margin: 0 auto;
